@@ -1,1 +1,1 @@
-# StaticGraph
+# Static Graph Generator
