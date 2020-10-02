@@ -2,7 +2,7 @@
 An Open-Gl 2D graph generator using `C++`
 
 ## Setting up OpenGL in Visual Studio 2017
- 1. Download `GLUT` `header`, `lib`, and `dll` files from [OpenGL website]    (https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip)
+ 1. Download `GLUT` `header`, `lib`, and `dll` files from [OpenGL website](https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip)
  2. Now navigate to *C:\Program Files(x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\{14.16.27023}\include*
  3. Create A folder named *GL* and open it.
  4. Paste the `glut.h` header file in the destination.
